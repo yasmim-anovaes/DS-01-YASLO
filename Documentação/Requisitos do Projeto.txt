@@ -1,6 +1,7 @@
 REQUISITOS DO SISTEMA
 
 
-Estar conectado a um banco de dados
-O sistema deverá ser intuitivo
-O sistema deverá suportar vários acessos simultâneos
+1 Estar conectado a um banco de dados
+2 O sistema deverá ser intuitivo
+3 O sistema deverá suportar vários acessos simultâneos
+4 o sistema devera possuir tela de cadastro e login
